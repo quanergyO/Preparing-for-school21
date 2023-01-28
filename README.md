@@ -34,11 +34,16 @@ https://metanit.com/c/practice/
 Подготовка к бассейну:
 
 Vim + Git - https://robotrainer.github.io/school21/#workVim  \\ https://github.com/robotrainer/school21
+
 Bash scripts - https://habr.com/ru/company/ruvds/blog/325522/
+
 Bash (Обязательно к прочтению) - http://ruvds.com/doc/bash.pdf
+
 GIT REPOS SCHOOL 42 (ОБЯЗАТЕЛЬНО) - https://github.com/evgenkarlson/ALL_SCHOOL_42
 
+
 Git practice: https://learngitbranching.js.org/?locale=ru_RU
+
 Алгоритмы: http://e-maxx.ru/algo/
 
 Книги:
