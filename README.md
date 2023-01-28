@@ -48,6 +48,7 @@ Git practice: https://learngitbranching.js.org/?locale=ru_RU
 4) Язык программирования C | Керниган Брайан У., Ритчи Деннис М.
 
 Дневники для прочтения:
+
 https://win-not-lose.blogspot.com/2019/01/21.html?m=1
 
 https://teletype.in/@udarcs/KdaHbulspRP
