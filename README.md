@@ -1,5 +1,5 @@
 Курсы:
-1) console - https://ru.hexlet.io/courses/cli-basics - **********DONE**********
+1) Консоль - https://ru.hexlet.io/courses/cli-basics - **********DONE**********
 2) гит - https://ru.hexlet.io/courses/intro_to_git
 3) гит - https://stepik.org/course/3145 - **21%**
 4) си - https://stepik.org/course/3078/info - *******76%*******
@@ -51,4 +51,3 @@ Git practice: https://learngitbranching.js.org/?locale=ru_RU
 https://win-not-lose.blogspot.com/2019/01/21.html?m=1
 https://teletype.in/@udarcs/KdaHbulspRP
 https://42-21-school.blogspot.com/?m=1
-
