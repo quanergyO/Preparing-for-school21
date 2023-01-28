@@ -49,5 +49,7 @@ Git practice: https://learngitbranching.js.org/?locale=ru_RU
 
 Дневники для прочтения:
 https://win-not-lose.blogspot.com/2019/01/21.html?m=1
+
 https://teletype.in/@udarcs/KdaHbulspRP
+
 https://42-21-school.blogspot.com/?m=1
