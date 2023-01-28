@@ -1,1 +1,0 @@
-Vyacheslav Stepanov
