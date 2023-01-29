@@ -1,6 +1,6 @@
 Курсы:
 1) Консоль - https://ru.hexlet.io/courses/cli-basics - **********DONE**********
-2) гит - https://ru.hexlet.io/courses/intro_to_git
+2) гит - https://ru.hexlet.io/courses/intro_to_gi- **********DONE**********
 3) гит - https://stepik.org/course/3145 - **21%**
 4) си - https://stepik.org/course/3078/info - *******76%*******
 5) си - https://stepik.org/course/57680 - **21%**
