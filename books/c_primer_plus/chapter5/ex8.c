@@ -11,7 +11,7 @@ int main(void)
     while (fs > 0)
     {
 	printf("%d %% %d = %d\n", fs, num, fs % num);
-	scanf("%d", &fs);
+	scanf("%d", &fs)
     }
 
     return 0;

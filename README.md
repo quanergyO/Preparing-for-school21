@@ -18,7 +18,7 @@ Youtube playlists:
 5) C Programming & Data Structures - https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM
 (Total length of playlist : 1 day, 13 hours, 58 minutes, 36 seconds)
 6) Основы работы в терминале - https://www.youtube.com/watch?v=vKdmMbAtEnM
-(Total length of playlist : 52 minutes, 33 seconds)
+(Total length of playlist : 52 minutes, 33 seconds) - **********DONE**********
 7) Linux Bash Scripts - https://www.youtube.com/playlist?list=PL0lO_mIqDDFUwVWvVitxG2oXA6a-Nq-Qq
 (Total length of playlist : 3 hours, 34 minutes, 27 seconds)
 8) VIM - https://www.youtube.com/playlist?list=PL8hRAtHSjAgZv7WFVDvQzzU-WoL-7jZGJ
