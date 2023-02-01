@@ -14,14 +14,18 @@ int main(void)
 	printf("m. multiplication  d. division\n");
 	printf("q. quit\n");
 	choise = getchar();
-	type_two_numbers(&num1, &num2);
+	
 	switch (choise)
 	{
-	    case 'c': printf("%f\n", num1 + num2); break;
-	    case 's': printf("%f\n", num1 - num2); break;
-	    case 'm': printf("%f\n", num1 * num2); break;
-	    case 'd': if (num2 == 0)
+	    case 'c': type_two_numbers(&num1, &num2); printf("%f\n", num1 + num2); break;
+	    case 's': type_two_numbers(&num1, &num2); printf("%f\n", num1 - num2); break;
+	    case 'm': type_two_numbers(&num1, &num2); printf("%f\n", num1 * num2); break;
+	    case 'd': type_two_numbers(&num1, &num2);
+		      if (num2 == 0)
+		      {
+			printf("can't division by 0. Try again\n");
 			continue;
+		      }
 		      else
 			printf("%f\n", num1 / num2);
 		        break;
@@ -36,8 +40,8 @@ void type_two_numbers(float * num1, float * num2)
     char ch;
     printf("Type first number: ");
     scanf("%f", num1);
-    printf("\nType second number: ");
+    printf("Type second number: ");
     scanf("%f", num2);
-    while (getchar() == '\n')
+    while (getchar() != '\n')
 	continue;
 }
