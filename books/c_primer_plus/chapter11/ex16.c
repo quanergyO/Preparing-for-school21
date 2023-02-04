@@ -3,16 +3,24 @@
 
 int main(int argc, char *argv[])
 {
-    char * arg = argv[1];
     char ch;
-    while ((ch = getchar()) != EOF)
+    if (argv[1])
     {
-	switch (arg[1])
-	{
-	    case 'p': putchar(ch); break;
-	    case 'u': putchar(toupper(ch)); break;
-	    case 'l': putchar(tolower(ch)); break;
-	}
+        char * arg = argv[1];
+        while ((ch = getchar()) != EOF)
+        {
+        	switch (arg[1])
+        	{
+	        case 'p': putchar(ch); break;
+	        case 'u': putchar(toupper(ch)); break;
+	        case 'l': putchar(tolower(ch)); break;
+         	}
+        }
     }
+    else
+	while ((ch = getchar()) != EOF)
+	{
+	    putchar(ch);
+	}
     return 0;
 }
