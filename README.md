@@ -13,19 +13,15 @@ Youtube playlists:
 (Total length of playlist : 9 hours, 19 minutes)  -  **********DONE**********
 3) МФТИ - https://www.youtube.com/watch?v=ZLaBAttuixI&list=PL55ElYIEKI0ADQO0opspdFNJGtPJ82UI_
 (Total length of playlist : 13 hours, 54 minutes, 17 seconds)
-4) Информатика - https://www.youtube.com/watch?v=lnFeG4DOMcE&list=PL66kIi3dt8A5sa_qBur8uxmtuuwuJQGS1&index=1
-(Total length of playlist : 22 hours, 33 minutes, 32 seconds)
-5) C Programming & Data Structures - https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM
+4) C Programming & Data Structures - https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM
 (Total length of playlist : 1 day, 13 hours, 58 minutes, 36 seconds)
-6) Основы работы в терминале - https://www.youtube.com/watch?v=vKdmMbAtEnM
+5) Основы работы в терминале - https://www.youtube.com/watch?v=vKdmMbAtEnM
 (Total length of playlist : 52 minutes, 33 seconds) - **********DONE**********
-7) Linux Bash Scripts - https://www.youtube.com/playlist?list=PL0lO_mIqDDFUwVWvVitxG2oXA6a-Nq-Qq
+6) Linux Bash Scripts - https://www.youtube.com/playlist?list=PL0lO_mIqDDFUwVWvVitxG2oXA6a-Nq-Qq
 (Total length of playlist : 3 hours, 34 minutes, 27 seconds)
-8) VIM - https://www.youtube.com/playlist?list=PL8hRAtHSjAgZv7WFVDvQzzU-WoL-7jZGJ
+7) VIM - https://www.youtube.com/playlist?list=PL8hRAtHSjAgZv7WFVDvQzzU-WoL-7jZGJ
 (Total length of playlist : 1 hour, 33 minutes, 28 seconds)
-9) Алгоритмы - https://www.youtube.com/playlist?list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5
-(Total length of playlist : 14 hours, 34 minutes, 14 seconds)
-10) ООП на СИ - https://www.youtube.com/watch?v=QyjTJ98iOWI
+8) ООП на СИ - https://www.youtube.com/watch?v=QyjTJ98iOWI
 
 METANIT:
 https://metanit.com/c/tutorial/
@@ -48,8 +44,8 @@ Git practice: https://learngitbranching.js.org/?locale=ru_RU
 
 Книги:
 1) Программирование на C для начинающих, 3-е издание Автор: Грег Перри, Дин Миллер - **********DONE**********
-2) Язык програмирования С лекции и упражнения 6-е издание Автор: Стивен Пратта - ***30%***
-3) Изучаем программирование на C (2013) Автор: Дэвид Гриффитс, Дон Гриффитс
+2) Язык програмирования С лекции и упражнения 6-е издание Автор: Стивен Пратта - ***70%***
+3) Изучаем программирование на C (2013) Автор: Дэвид Гриффитс, Дон Гриффитс - ***30%***
 4) Эффективный C. Профессиональное программирование Автор: Сикорд Роберт С.
 5) Язык программирования C | Керниган Брайан У., Ритчи Деннис М.
 
