@@ -1,10 +1,10 @@
 Курсы:
 1) Консоль - https://ru.hexlet.io/courses/cli-basics - **********DONE**********
 2) гит - https://ru.hexlet.io/courses/intro_to_gi- **********DONE**********
-3) гит - https://stepik.org/course/3145 - *6%**
+3) гит - https://stepik.org/course/3145 - ***6%***
 4) си - https://stepik.org/course/3078/info - ******81%*******
-5) си - https://stepik.org/course/57680 - *31%**
-6) си - https://stepik.org/course/73618/syllabus - **45%***
+5) си - https://stepik.org/course/57680 - ***31%***
+6) си - https://stepik.org/course/73618/syllabus - ***45%***
 
 Youtube playlists:
 1) antg.pro СИ - https://www.youtube.com/watch?v=Na2OtRSkVbI&list=PLG9dLrY9JZKg9bIvxE152Rlfl45141cNL
@@ -12,7 +12,7 @@ Youtube playlists:
 2) КМБ МФТИ - https://www.youtube.com/watch?v=KdwiF_6ZvNw&list=PLRDzFCPr95fLjzcv6nNdjMu_9RcZgIM9U&index=25
 (Total length of playlist : 9 hours, 19 minutes)  -  **********DONE**********
 3) МФТИ - https://www.youtube.com/watch?v=ZLaBAttuixI&list=PL55ElYIEKI0ADQO0opspdFNJGtPJ82UI_
-(Total length of playlist : 13 hours, 54 minutes, 17 seconds) - ***28%***
+(Total length of playlist : 13 hours, 54 minutes, 17 seconds) - ***40%***
 4) C Programming & Data Structures - https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM
 (Total length of playlist : 1 day, 13 hours, 58 minutes, 36 seconds) - ***20%***
 5) Основы работы в терминале - https://www.youtube.com/watch?v=vKdmMbAtEnM
