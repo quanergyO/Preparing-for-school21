@@ -2,7 +2,7 @@
 1) Консоль - https://ru.hexlet.io/courses/cli-basics - **********DONE**********
 2) гит - https://ru.hexlet.io/courses/intro_to_gi- **********DONE**********
 3) гит - https://stepik.org/course/3145 - ***26%***
-4) си - https://stepik.org/course/3078/info - ******85%*******
+4) си - https://stepik.org/course/3078/info - ******98%*******
 5) си - https://stepik.org/course/57680 - ***49%***
 6) си - https://stepik.org/course/73618/syllabus - ***31%***
 
