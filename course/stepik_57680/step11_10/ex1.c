@@ -5,12 +5,17 @@
 #define SIZE 100
 
 bool is_pallindrom(const char * str);
-char * find_decor(const char * str, size_t len, char * res);
+void find_decor(const char * src, int divider, char * res);
 
 int main(void)
 {
     char str[SIZE];
     scanf("%s", str);
+    if (strlen(str) == 1)
+    {
+	printf("%s\n", str);
+        return 0;
+    }
     if (!is_pallindrom(str))
     {
         printf("NO\n");
@@ -18,25 +23,46 @@ int main(void)
     }
     int size = strlen(str) / 2 + 1;
     char res[size];
-    char * p = find_decor(str, strlen(str) / 2, res);
-    printf("%s\n", (p == NULL) ? "NO": p);
+    for (int i = 0; i < size; i++)
+	res[i] = '\0';
+    find_decor(str, 2, res);
+    printf("%s\n", (res[0]) ? res : "NO");
 
     return 0;
 }
 
-char * find_decor(const char * str, size_t len, char * res)
+void find_decor(const char * src, int divider, char * res)
 {
-    if (len == 0)
-        return NULL;
-    for (int i = 0, j = strlen(str)/2; i < len; i++, j++)
-    {
-        if (str[i] != str[j])
-            return find_decor(str, len - 1, res);
-    }
-    strncpy(res, str, len);
-    return res;
-}
+     if (divider > strlen(src))
+	return;
+     if (strlen(src) % divider != 0)
+     {
+	find_decor(src, divider + 1, res);
+	return;
+     }
 
+     int i, j;
+     bool flag = true;
+     int index = 0;
+     char arr_str[divider][strlen(src) / divider + 1];
+     for (i = 0; i < divider; i++)
+     {
+	for (j = 0; j < strlen(src) / divider; j++)
+	    arr_str[i][j] = src[index++];
+	
+	arr_str[i][j] = '\0';
+     }
+     for (i = 0; i < divider-1; i++)
+     {
+	if (strcmp(arr_str[i], arr_str[i+1]))
+	{
+	    flag = false;
+	    find_decor(src, divider + 1, res);
+	}
+     }
+     if (flag)
+	strncpy(res, arr_str[i], strlen(src) / divider + 1);
+}
 
 bool is_pallindrom(const char * str)
 {
