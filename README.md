@@ -3,8 +3,8 @@
 2) гит - https://ru.hexlet.io/courses/intro_to_gi- **********DONE**********
 3) гит - https://stepik.org/course/3145 - ***26%***
 4) си - https://stepik.org/course/3078/info - ******98%*******
-5) си - https://stepik.org/course/57680 - ***49%***
-6) си - https://stepik.org/course/73618/syllabus - ***31%***
+5) си - https://stepik.org/course/57680 - ***65%***
+6) си - https://stepik.org/course/73618/syllabus - ***35%***
 
 Youtube playlists:
 1) antg.pro СИ - https://www.youtube.com/watch?v=Na2OtRSkVbI&list=PLG9dLrY9JZKg9bIvxE152Rlfl45141cNL
@@ -44,7 +44,7 @@ Git practice: https://learngitbranching.js.org/?locale=ru_RU
 
 Книги:
 1) Программирование на C для начинающих, 3-е издание Автор: Грег Перри, Дин Миллер - **********DONE**********
-2) Язык програмирования С лекции и упражнения 6-е издание Автор: Стивен Пратта - ***70%***
+2) Язык програмирования С лекции и упражнения 6-е издание Автор: Стивен Пратта - ***75%***
 3) Изучаем программирование на C (2013) Автор: Дэвид Гриффитс, Дон Гриффитс - ***30%***
 4) Эффективный C. Профессиональное программирование Автор: Сикорд Роберт С.
 5) Язык программирования C | Керниган Брайан У., Ритчи Деннис М.
